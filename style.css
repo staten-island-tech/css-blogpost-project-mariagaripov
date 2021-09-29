@@ -1,0 +1,31 @@
+body {
+  background-color: tan;
+  color: indianred;
+  font-size: 25px;
+}
+.background {
+  text-align: center;
+}
+.head {
+  text-align: center;
+  background-color: seashell;
+  border: brown;
+  height: 15vh;
+  padding: 50px 25px;
+  width: 50vw;
+}
+.post1 {
+  text-align: center;
+  background-color: seashell;
+  border-color: brown;
+}
+.post2 {
+  text-align: center;
+  background-color: seashell;
+  border-color: brown;
+}
+.post3 {
+  text-align: center;
+  background-color: seashell;
+  border-color: brown;
+}
