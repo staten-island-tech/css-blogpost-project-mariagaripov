@@ -1,31 +1,49 @@
 body {
   background-color: tan;
   color: indianred;
-  font-size: 25px;
+  font-size: 20px;
+  font-family: "Arimo", sans-serif;
 }
-.background {
-  text-align: center;
-}
-.head {
+.header {
   text-align: center;
   background-color: seashell;
-  border: brown;
-  height: 15vh;
+  border: 5px solid brown;
   padding: 50px 25px;
-  width: 50vw;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 50px 30px 50px;
 }
 .post1 {
   text-align: center;
   background-color: seashell;
-  border-color: brown;
+  border: 3px solid brown;
+  padding: 50px 25px;
+  font-size: 20px;
+  margin: 10px 50px 30px 50px;
 }
 .post2 {
   text-align: center;
   background-color: seashell;
-  border-color: brown;
+  border: 3px solid brown;
+  padding: 50px 25px;
+  font-size: 20px;
+  margin: 10px 50px 30px 50px;
 }
 .post3 {
   text-align: center;
   background-color: seashell;
-  border-color: brown;
+  border: 3px solid brown;
+  padding: 50px 25px;
+  font-size: 20px;
+  margin: 10px 50px 30px 50px;
+}
+img {
+  width: 400px;
+}
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+#verytop {
+  font-size: 50px;
 }
