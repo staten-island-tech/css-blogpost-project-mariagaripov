@@ -13,7 +13,7 @@ body {
   font-weight: bold;
   margin: 10px 50px 30px 50px;
 }
-.post1 {
+.cats {
   text-align: center;
   background-color: seashell;
   border: 3px solid brown;
@@ -21,26 +21,11 @@ body {
   font-size: 20px;
   margin: 10px 50px 30px 50px;
 }
-.post2 {
-  text-align: center;
-  background-color: seashell;
-  border: 3px solid brown;
-  padding: 50px 25px;
-  font-size: 20px;
-  margin: 10px 50px 30px 50px;
-}
-.post3 {
-  text-align: center;
-  background-color: seashell;
-  border: 3px solid brown;
-  padding: 50px 25px;
-  font-size: 20px;
-  margin: 10px 50px 30px 50px;
-}
+
 img {
   width: 400px;
 }
-h1 {
+#h3 #h4 #h5 {
   font-size: 40px;
   font-weight: bold;
 }
